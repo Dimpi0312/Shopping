@@ -80,7 +80,6 @@
     <Content Include="Images\Logo1.jpg" />
     <Content Include="Loginpage.aspx" />
     <Content Include="Registerpage.aspx" />
-    <Content Include="Shopping.sln" />
     <Content Include="Site1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
